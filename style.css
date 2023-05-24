@@ -306,7 +306,7 @@ h1 {
     content: "Оставить заявку";
     position: absolute;
     top: 35px;
-    left: 740px;
+    left: 1060px;
   }
   .header_nav_button_2:before {
     content: "Статус ремонта";
