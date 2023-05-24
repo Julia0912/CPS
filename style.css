@@ -89,7 +89,7 @@ h1 {
 @media (max-width: 769px) {
   .mobile-wrapper {
     min-width: 320px;
-    min-height: 597px;
+    height: 100vh;
     overflow: hidden;
     background: #f8f8f8;
   }
@@ -172,7 +172,7 @@ h1 {
 @media (min-width: 770px) {
   .mobile-wrapper {
     min-width: 768px;
-    min-height: 856px;
+    height: 100vh;
     overflow: hidden;
     background: #f8f8f8;
   }
@@ -242,12 +242,18 @@ h1 {
   .header_nav_1120 {
     display: none;
   }
+  .article_1120 {
+    display: none;
+  }
+  .services_menu_1120 {
+    display: none;
+  }
 }
 
 @media (min-width: 1120px) {
   .mobile-wrapper {
     min-width: 1120px;
-    min-height: 535px;
+    height: 100vh;
     overflow: hidden;
     background: #f8f8f8;
   }
